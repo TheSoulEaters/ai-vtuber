@@ -1,0 +1,45 @@
+# Library Umum
+numpy==2.3.3          # Komputasi numerik
+pandas==2.3.2          # Manipulasi data
+scipy==1.16.2          # Pemrosesan sinyal
+
+# Natural Language Processing (NLP)
+transformers==4.56.2   # Model NLP dari Hugging Face
+torch==2.8.0          # Framework deep learning (PyTorch)
+sentence-transformers==5.1.1  # Embedding teks
+openai==1.109.1         # Integrasi dengan GPT-3/4 (API OpenAI)
+langchain==0.3.27     # Pipeline NLP kompleks (perbaiki nama paket)
+
+# Text-to-Speech (TTS)
+elevenlabs==2.16.0      # API ElevenLabs untuk suara realistis
+TTS             # Library Coqui TTS untuk Text-to-Speech
+gTTS==2.5.4            # Google Text-to-Speech (sederhana)
+
+# Animasi Wajah dan Tubuh
+opencv-python==4.12.0.88   # Pengolahan video dan gambar
+faceformer==0.1        # Model FaceFormer untuk animasi wajah (opsional)
+wav2lip==1.2.4           # Model Wav2Lip untuk sinkronisasi mulut (opsional)
+mediapipe==0.10.21      # Deteksi wajah & gerakan tangan
+pyquaternion==0.9.5    # Operasi quaternion (animasi 3D)
+mocap==0.1.3             # Motion capture tools (opsional)
+
+# Streaming dan OBS Integration
+obs-websocket-py==1.0  # Kontrol OBS Studio via WebSocket
+flask==3.1.2            # Web framework untuk server API (opsional)
+streamlink==7.6.0      # Streaming ke Twitch/Youtube (perbaiki nama paket)
+
+# Database
+sqlalchemy==2.0.43      # ORM untuk database SQL
+mysql-connector-python==9.4.0  # Driver untuk MySQL
+pymongo==4.15.1          # Driver untuk MongoDB
+firebase-admin==7.1.0    # Integrasi dengan Firebase Realtime Database
+
+# Logging dan Monitoring
+loguru==0.7.3           # Logging mudah digunakan
+tensorboard==2.20.0     # Monitoring pelatihan model (opsional)
+
+# Utilitas Tambahan
+requests==2.32.5        # Permintaan HTTP
+python-dotenv==1.1.1   # Manajemen variabel lingkungan
+tqdm==4.67.1           # Progress bar
+pytest==8.4.2           # Pengujian unit
