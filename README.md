@@ -145,7 +145,7 @@ AI-VTuber/
 
 ## Lisensi
 
-MIT License – lihat [LICENSE](<ink src="LICENSE"></ink>) untuk detail.
+MIT License – lihat [LICENSE](LICENSE) untuk detail.
 
 ---
 
